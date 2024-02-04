@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="pl.polsl.StoneCold.unitylibrary">
+<application>
+    <service android:name=".MessageService" android:enabled="true" android:exported="true">
+        <intent-filter>
+            <action android:name="com.google.android.gms.wearable.MESSAGE_RECEIVED"/>
+            <data android:scheme="wear" android:host="*" android:pathPrefix="/measurements"/>
+        </intent-filter>
+    </service>
+</application>
+</manifest>
