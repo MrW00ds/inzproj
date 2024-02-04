@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="pl.polsl.StoneCold" xmlns:tools="http://schemas.android.com/tools">
+<application>
+	<activity android:name="pl.polsl.StoneCold.unitylibrary.MainActivity" android:theme="@style/UnityThemeSelector">
+		<intent-filter>
+			<action android:name="android.intent.action.MAIN"/>
+			<category android:name="android.intent.category.LAUNCHER"/>
+			<action android:name="com.google.android.gms.wearable.DATA_CHANGED"/>
+			<action android:name="com.google.android.gms.wearable.MESSAGE_RECEIVED"/>
+			<action android:name="com.google.android.gms.wearable.CAPABILITY_CHANGED"/>
+			<action android:name="com.google.android.gms.wearable.CHANNEL_EVENT"/>
+		</intent-filter>
+		<meta-data android:name="unityplayer.UnityActivity" android:value="true"/>
+	</activity>
+</application>
+</manifest>

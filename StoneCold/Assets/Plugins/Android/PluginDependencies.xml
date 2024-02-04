@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dependencies>
+	<androidPackages>
+		<androidPackage spec="androidx.appcompat:appcompat:1.4.2"/>
+		<androidPackage spec="com.google.android.material:material:1.6.1"/>
+		<androidPackage spec="com.google.android.gms:play-services-wearable:17.1.0"/>
+	</androidPackages>
+</dependencies>
