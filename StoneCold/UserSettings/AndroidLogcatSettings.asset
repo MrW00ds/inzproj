@@ -1,0 +1,367 @@
+{
+    "m_SelectedDeviceId": "RF8M63CQYJK",
+    "m_SelectedPackage": {
+        "deviceId": "RF8M63CQYJK",
+        "name": "pl.polsl.StoneCold",
+        "processId": 14924,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "10.0.0.17:42023",
+            "name": "pl.polsl.StoneCold",
+            "processId": 769,
+            "exited": true
+        },
+        {
+            "deviceId": "10.0.0.17:42023",
+            "name": "com.sec.android.app.launcher",
+            "processId": 4735,
+            "exited": false
+        },
+        {
+            "deviceId": "10.0.0.17:42023",
+            "name": "pl.polsl.StoneCold",
+            "processId": 3885,
+            "exited": true
+        },
+        {
+            "deviceId": "10.0.0.17:42023",
+            "name": "pl.polsl.StoneCold",
+            "processId": 5033,
+            "exited": true
+        },
+        {
+            "deviceId": "10.0.0.17:42023",
+            "name": "pl.polsl.StoneCold",
+            "processId": 6448,
+            "exited": true
+        },
+        {
+            "deviceId": "10.0.0.17:42023",
+            "name": "pl.polsl.StoneCold",
+            "processId": 7101,
+            "exited": false
+        },
+        {
+            "deviceId": "10.0.0.17:42023",
+            "name": "pl.polsl.StoneCold",
+            "processId": 7466,
+            "exited": false
+        },
+        {
+            "deviceId": "10.0.0.17:42023",
+            "name": "pl.polsl.StoneCold",
+            "processId": 8538,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.121:41287",
+            "name": "pl.polsl.StoneCold",
+            "processId": 14558,
+            "exited": true
+        },
+        {
+            "deviceId": "RF8M63CQYJK",
+            "name": "pl.polsl.StoneCold",
+            "processId": 28715,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M63CQYJK",
+            "name": "pl.polsl.StoneCold",
+            "processId": 23700,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M63CQYJK",
+            "name": "pl.polsl.StoneCold",
+            "processId": 17807,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M63CQYJK",
+            "name": "pl.polsl.StoneCold",
+            "processId": 23372,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M63CQYJK",
+            "name": "pl.polsl.StoneCold",
+            "processId": 25183,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M63CQYJK",
+            "name": "pl.polsl.StoneCold",
+            "processId": 28023,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M63CQYJK",
+            "name": "pl.polsl.StoneCold",
+            "processId": 8750,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M63CQYJK",
+            "name": "pl.polsl.StoneCold",
+            "processId": 9936,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M63CQYJK",
+            "name": "pl.polsl.StoneCold",
+            "processId": 29830,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M63CQYJK",
+            "name": "pl.polsl.StoneCold",
+            "processId": 31086,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M63CQYJK",
+            "name": "pl.polsl.StoneCold",
+            "processId": 1390,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M63CQYJK",
+            "name": "pl.polsl.StoneCold",
+            "processId": 2601,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M63CQYJK",
+            "name": "pl.polsl.StoneCold",
+            "processId": 15458,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M63CQYJK",
+            "name": "pl.polsl.StoneCold",
+            "processId": 17477,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M63CQYJK",
+            "name": "pl.polsl.StoneCold",
+            "processId": 19086,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M63CQYJK",
+            "name": "pl.polsl.StoneCold",
+            "processId": 20608,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M63CQYJK",
+            "name": "pl.polsl.StoneCold",
+            "processId": 21354,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M63CQYJK",
+            "name": "pl.polsl.StoneCold",
+            "processId": 22909,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M63CQYJK",
+            "name": "pl.polsl.StoneCold",
+            "processId": 24066,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M63CQYJK",
+            "name": "pl.polsl.StoneCold",
+            "processId": 25134,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M63CQYJK",
+            "name": "pl.polsl.StoneCold",
+            "processId": 25601,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M63CQYJK",
+            "name": "pl.polsl.StoneCold",
+            "processId": 381,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M63CQYJK",
+            "name": "pl.polsl.StoneCold",
+            "processId": 1547,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8M63CQYJK",
+            "name": "pl.polsl.StoneCold",
+            "processId": 14924,
+            "exited": false
+        },
+        {
+            "deviceId": "10.0.0.8:45478",
+            "name": "pl.polsl.StoneCold",
+            "processId": 25171,
+            "exited": false
+        },
+        {
+            "deviceId": "10.0.0.8:45478",
+            "name": "pl.polsl.StoneCold",
+            "processId": 26286,
+            "exited": false
+        },
+        {
+            "deviceId": "10.0.0.8:45478",
+            "name": "pl.polsl.StoneCold",
+            "processId": 32508,
+            "exited": false
+        },
+        {
+            "deviceId": "10.0.0.8:45478",
+            "name": "pl.polsl.StoneCold",
+            "processId": 2634,
+            "exited": false
+        },
+        {
+            "deviceId": "10.0.0.8:45478",
+            "name": "pl.polsl.StoneCold",
+            "processId": 27748,
+            "exited": false
+        },
+        {
+            "deviceId": "10.0.0.8:35814",
+            "name": "com.sec.android.app.launcher",
+            "processId": 4735,
+            "exited": false
+        },
+        {
+            "deviceId": "10.0.0.8:35814",
+            "name": "pl.polsl.StoneCold",
+            "processId": 32580,
+            "exited": false
+        },
+        {
+            "deviceId": "10.0.0.8:43895",
+            "name": "pl.polsl.StoneCold",
+            "processId": 32580,
+            "exited": false
+        },
+        {
+            "deviceId": "10.0.0.8:43895",
+            "name": "pl.polsl.StoneCold",
+            "processId": 2832,
+            "exited": false
+        },
+        {
+            "deviceId": "10.0.0.8:43895",
+            "name": "pl.polsl.StoneCold",
+            "processId": 5731,
+            "exited": false
+        },
+        {
+            "deviceId": "10.0.0.17:37261",
+            "name": "pl.polsl.StoneCold",
+            "processId": 27277,
+            "exited": false
+        },
+        {
+            "deviceId": "10.0.0.17:37261",
+            "name": "pl.polsl.StoneCold",
+            "processId": 15462,
+            "exited": false
+        },
+        {
+            "deviceId": "10.0.0.17:37261",
+            "name": "pl.polsl.StoneCold",
+            "processId": 17412,
+            "exited": false
+        },
+        {
+            "deviceId": "75ecd6a2",
+            "name": "pl.polsl.StoneCold",
+            "processId": 11767,
+            "exited": false
+        },
+        {
+            "deviceId": "10.0.0.17:37494",
+            "name": "pl.polsl.StoneCold",
+            "processId": 17602,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_FilterOptions": {
+        "m_Filter": "",
+        "m_UseRegularExpressions": false,
+        "m_MatchCase": false
+    },
+    "m_SymbolPaths": [],
+    "m_CaptureVideoSettings": {
+        "TimeLimitEnabled": false,
+        "TimeLimit": 180,
+        "VideoSizeEnabled": false,
+        "VideoSizeX": 1280,
+        "VideoSizeY": 720,
+        "BitRateEnabled": false,
+        "BitRateK": 20000,
+        "DisplayIdEnabled": false,
+        "DisplayId": ""
+    }
+}
